@@ -2,6 +2,8 @@
 Prueba Fullstack Backend API REST
 
 ## Pasos para ejecución con Node.js npm
+
+Carpeta local del proyecto
 ```
 Primero instalar dependencias:
 ```

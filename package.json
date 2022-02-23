@@ -1,0 +1,31 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "API REST prueba fullstack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon --watch backend --watch app ./backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymendivelso/fullstack.git"
+  },
+  "keywords": [
+    "fullstack",
+    "test"
+  ],
+  "author": "Yeiner Mendivelso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymendivelso/fullstack/issues"
+  },
+  "homepage": "https://github.com/ymendivelso/fullstack#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3"
+  }
+}
